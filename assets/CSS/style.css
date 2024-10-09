@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-mycolor1
+{
+    background-color: #3fbabf;
+}
+.myborder
+{
+    border-top: 8px solid #3fbabf;
+    border-radius: 8px;
+}
+.myborder2
+{
+    border-right: 4px solid #3fbabf;
+}
+.Secborder
+{
+    border-bottom: 4px solid #3fbabf;
+    width: 50px;
+    margin: 0 auto;
+}
+.text-mycolor
+{
+    color: #3fbabf;
+}
+.navbar-collapse
+{
+    text-align: center;
+}
+.hero-hight
+{
+    height: 80vh;
+}
+.carousel-indicators [data-bs-target]
+{
+    height: 15px;
+    width: 15px;
+}
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: #3fbabf;
+}
+.carousel-indicators button {
+    border-radius: 50%;
+}
+@media ( min-width :992px)
+{
+    .normalscreen1
+    {
+        padding: 3rem;
+    }
+    .normalscreen2
+    {
+        padding: 3rem;
+    }
+}
+
+
+
